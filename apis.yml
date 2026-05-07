@@ -19,6 +19,12 @@ apis: []
 common:
   - type: Website
     url: https://www.hutchinson.com/
+  - type: Plans
+    url: plans/hutchinson-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/hutchinson-rate-limits.yml
+  - type: FinOps
+    url: finops/hutchinson-finops.yml
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
