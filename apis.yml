@@ -17,6 +17,8 @@ modified: '2026-05-06'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/hutchinson-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/hutchinson
   - type: Website
@@ -27,6 +29,8 @@ common:
     url: rate-limits/hutchinson-rate-limits.yml
   - type: FinOps
     url: finops/hutchinson-finops.yml
+  - url: https://www.hutchinson.com/en/news
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
