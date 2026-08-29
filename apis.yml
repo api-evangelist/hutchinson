@@ -4,6 +4,17 @@ name: Hutchinson
 kind: company
 description: >-
   Hutchinson SA is a French global Tier 1 automotive supplier headquartered in Paris, a subsidiary of TotalEnergies. Hutchinson designs and manufactures anti-vibration systems, sealing systems, fluid transfer, precision rubber components, and aerospace systems for the automotive, aerospace, defense, and industrial sectors.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: enterprise
   onboarding: unknown
